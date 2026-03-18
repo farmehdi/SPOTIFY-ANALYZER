@@ -75,3 +75,4 @@ MIT
 ## Contribution
 
 Les pull requests sont les bienvenues ! N'hésitez pas à ouvrir des issues pour signaler des bugs ou demander de nouvelles fonctionnalités.
+On vous remercie.
